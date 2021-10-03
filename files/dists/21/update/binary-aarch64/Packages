@@ -15,3 +15,34 @@ SHA1: 3db3ab22337e10790727c7504ec41c9fe61d62de
 SHA256: 443f0d23dc96376a3c53abc87c0399d059f6cba7105d1b7fee2b632de132b3fd
 SHA512: 4e42be39576e3c9a259419f15bdabe49a13aa54364b7d91240665d832b830d2286bf05a710dc66bb14cea975d7a7eddebb635a33cec027533bc38eaf39352085
 
+Package: ncurses-utils
+Architecture: aarch64
+Installed-Size: 228
+Maintainer: @termux
+Version: 6.2.20200725-5
+Homepage: https://invisible-island.net/ncurses/
+Depends: ncurses (= 6.2.20200725-5)
+Description: Tools for working with terminals
+Filename: dists/21/update/binary-aarch64/ncurses-utils_6.2.20200725-5_aarch64.deb
+Size: 81178
+MD5Sum: 03a3b5521f2682abbfe34f6bdd43396f
+SHA1: f592b5fa5fb4b705aea49676f05f00e393f55c1d
+SHA256: 5b4968921fac25e806d9eb3a83de97c6c3598b408bf1216c1b1da1c6fc12c18d
+SHA512: 66c19dd4dcb95f4d5c52f0cb85dd9994124df86d471e110d0566dde3c4cfa6ef803f0795f5cf8b6fd06aabc3e5339c5963602e12be398205efe466af20f934f5
+
+Package: ncurses
+Architecture: aarch64
+Installed-Size: 1464
+Maintainer: @termux
+Version: 6.2.20200725-5
+Homepage: https://invisible-island.net/ncurses/
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Description: Library for text-based user interfaces in a terminal-independent manner
+Filename: dists/21/update/binary-aarch64/ncurses_6.2.20200725-5_aarch64.deb
+Size: 491156
+MD5Sum: 3e087c544ab0ea0259bfefb98cc6c985
+SHA1: a9d0e7f68abf795fb0044ed1afc5a03cf37e36ae
+SHA256: 614b5189db9a704e61c100d73605564c415687ee6094f546e263c12ee5df0c91
+SHA512: b35a66f5a6770d2d382bba51aae43fb0232385d8174344e7f88491ddf0e738bfffb994f48e391891382609c2f6f1b99d71eafdba6ba39322142cd3f62a1da0f0
+
