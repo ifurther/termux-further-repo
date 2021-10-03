@@ -10,8 +10,8 @@ mkdir -p $PREFIX/etc/apt/sources.list.d
 if apt-cache policy | grep -q "termux.*24\|termux.org\|bintray.*24\|k51qzi5uqu5dg9vawh923wejqffxiu9bhqlze5f508msk0h7ylpac27fdgaskx" ; then
 echo "deb https://ifurther.github.io/termux-further-repo/files/24 termux extras" > $PREFIX/etc/apt/sources.list.d/further.list
 else
-echo "deb https://ifurther.github.io/termux-further-repo/files/21 termux extras" > $PREFIX/etc/apt/sources.list.d/further.list
-echo "deb https://ifurther.github.io/termux-further-repo/files/21 termux main" > $PREFIX/etc/apt/sources.list.d/further.list
+#echo "deb https://ifurther.github.io/termux-further-repo/files/21 21 extras" > $PREFIX/etc/apt/sources.list.d/further.list
+echo "deb https://ifurther.github.io/termux-further-repo/files/21 21 update" > $PREFIX/etc/apt/sources.list.d/further.list
 fi
  Add signing key from https://its-pointless.github.io/pointless.gpg
 if [ -n $(command -v curl) ]; then

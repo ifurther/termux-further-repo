@@ -1,0 +1,29 @@
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 152
+Maintainer: Fredrik Fornwall @fornwall
+Version: 20211003
+Homepage: https://curl.haxx.se/docs/caextract.html
+Depends: ca-certificates (= 20211003)
+Description: Common CA certificates (java keystore format)
+Filename: dists/21/update/binary-all/ca-certificates-java_20211003_all.deb
+Size: 101716
+MD5Sum: 54a4e116c5d233a9cb7214e6660df07f
+SHA1: c9f21b1ac5269e2f7fc931f44db93584e6df5e9a
+SHA256: 66359e1fa4728feda92b92f44eee2a99fb802af2daec70f80bd41f428d57860a
+SHA512: 6ca7309a327a1a88e0cf8187b304c2a8a974390fb6e65c2695ed880db50e5197e5937fff6000eb9ffcbe08d0e6c4b02792c660fa63be8e2ddbde6fe2bec302b3
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 200
+Maintainer: Fredrik Fornwall @fornwall
+Version: 20211003
+Homepage: https://curl.haxx.se/docs/caextract.html
+Description: Common CA certificates
+Filename: dists/21/update/binary-all/ca-certificates_20211003_all.deb
+Size: 111608
+MD5Sum: 55d0a0b401cf2bf25ff062546f9800eb
+SHA1: 0463ef2c7f6d9b8920c7f30175762a049e1f8803
+SHA256: 3448bf4a19c3dcf26344a3a7d7fd992bdeb5389422e126256ba58a4e2e452285
+SHA512: b764a2c6e677422a864d4df92cc25c6f70de8429a7f97a8e83eab1bfa282965610c7be95e214ad8bd522d6a3be1a993c5bb518ea861d6aa61c48d26f71a524b9
+
