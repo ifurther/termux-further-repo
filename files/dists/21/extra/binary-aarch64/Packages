@@ -8,7 +8,7 @@ Breaks: liblzma-dev
 Essential: yes
 Replaces: liblzma-dev
 Description: XZ-format compression library
-Filename: dists/21/aarch64/binary-aarch64/liblzma_5.2.5-1_aarch64.deb
+Filename: dists/21/extra/binary-aarch64/liblzma_5.2.5-1_aarch64.deb
 Size: 134096
 MD5Sum: 2a3bedb93d5bbd69c2daa1d8f269e9f5
 SHA1: 3db3ab22337e10790727c7504ec41c9fe61d62de
