@@ -27,3 +27,18 @@ SHA1: 0463ef2c7f6d9b8920c7f30175762a049e1f8803
 SHA256: 3448bf4a19c3dcf26344a3a7d7fd992bdeb5389422e126256ba58a4e2e452285
 SHA512: b764a2c6e677422a864d4df92cc25c6f70de8429a7f97a8e83eab1bfa282965610c7be95e214ad8bd522d6a3be1a993c5bb518ea861d6aa61c48d26f71a524b9
 
+Package: further-repo
+Architecture: all
+Installed-Size: 4
+Maintainer: ifurther
+Version: 0.1
+Homepage: https://github.com/termux/termux-further-repo
+Depends: termux-keyring
+Description: Package repository containing programs for ownself tested
+Filename: dists/21/update/binary-all/further-repo_0.1_all.deb
+Size: 1040
+MD5Sum: 2eecf540ffff38cc3ce3cee8b76a72df
+SHA1: 19e6f39e21610a1ee4375701483d760e3fc87bc4
+SHA256: c98a9e19545cd3838fb2ada9fcef157a87f45c8c2b2c665f4853106ef6a86f70
+SHA512: 4a2d1f913c075cf99b79bd1e924b2eef9399c5e8756be5f8f4dc94e8f5793ef954e7a1c3283de792932729cf97b07bb86de40058f99ae8b79c019077801b24ee
+

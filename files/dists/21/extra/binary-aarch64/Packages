@@ -1,3 +1,18 @@
+Package: cython
+Architecture: aarch64
+Installed-Size: 8464
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.29.24
+Homepage: http://www.cython.org/
+Depends: python, clang
+Description: The Cython language makes writing C extensions for the Python language as
+Filename: dists/21/extra/binary-aarch64/cython_0.29.24_aarch64.deb
+Size: 1569102
+MD5Sum: bb840d10d31d81bf8133538c00b5cdc4
+SHA1: 35a693662eca68b92cac671332fa3b4592808d30
+SHA256: 6353bfedcbf2b858d44a0be092c26231b626534f13b362f7d51edbd9591d95a2
+SHA512: 90fa84ea974b25be303929b68175d6f6cd0910be5a2c466162f09973de42e5e73e4850b230dbfa5cfa35ed732bc446fe5b24fc7ce406c1e16efb6ed00430a8c0
+
 Package: openblas
 Architecture: aarch64
 Installed-Size: 80
